@@ -7,6 +7,9 @@ This project is licensed under the MIT License.
 This model utilizes the following dataset:
 https://huggingface.co/datasets/newsmediabias/Bias-DeBiased
 
+The model weights are here:
+https://huggingface.co/newsmediabias/MBIAS
+
 ## Metrics
 The primary performance metric for this model is accuracy.
 
