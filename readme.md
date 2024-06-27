@@ -1,12 +1,11 @@
-
 # MBIAS
 
 ## License
-This project is licensed under the MIT License .
+This project is licensed under the MIT License.
 
 ## Datasets
 This model utilizes the following dataset:
--ANONYMOUS - will be released upon acceptance of paper.
+https://huggingface.co/datasets/newsmediabias/Bias-DeBiased
 
 ## Metrics
 The primary performance metric for this model is accuracy.
@@ -18,7 +17,6 @@ The primary performance metric for this model is accuracy.
 **Model Name:** MBIAS  
 **Model Type:** Large Language Model (LLM)  
 **Version:** 1.0  
-
 
 ## Model Description
 MBIAS is a fine-tuned Large Language Model specifically designed to enhance safety while retaining contextual accuracy in model outputs. Traditional safety interventions often compromise contextual meaning when mitigating bias and toxicity. MBIAS addresses this by maintaining high contextual relevance and drastically reducing bias and toxicity in text generation.
@@ -49,4 +47,5 @@ The model can be accessed and used for text generation through the HuggingFace p
 - **LoRA Attention Dimension:** 64
 - **LoRA Scaling/Dropout Probability:** 16/0.2
 
-
+## Contact
+For more information or questions, please contact Shaina Raza at [shaina.raza@vectorinstitute.ai](mailto:shaina.raza@vectorinstitute.ai).
