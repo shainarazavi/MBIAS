@@ -1,4 +1,4 @@
-""" Script to run (fast) batch inference on MBIAS model. """
+""" Script to run inference on MBIAS model """
 import os
 import torch
 import pandas as pd
@@ -11,7 +11,7 @@ from transformers import (
 )
 
 # Defining directories to load model and test data
-USER = "araval"
+USER = "<USER>"
 DRIVE_ADDR = f"/scratch/ssd004/scratch/{USER}/"
 MERGED_MODEL_DIR= DRIVE_ADDR + "results/full_model_chat" # where to load base+adapter model
 HF_MODEL = "newsmediabias/MBIAS" #Can directly use MBIAS model stored on HF
