@@ -56,7 +56,7 @@ When using **MBias** or the dataset in your research, please cite the following 
 Shaina Raza, Ananya Raval, Veronica Chatrath, **MBIAS: Mitigating Bias in Large Language Models While Retaining Context**, _ACL 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis_, 2024. [[Paper]](https://arxiv.org/abs/2405.11290)
 
 ```bibtex
-@INPROCEEDINGS{RazaMBIAD,
+@INPROCEEDINGS{RazaMBIAS,
   author={Raza, Shaina and Raval, Ananya and Chatrath, Veronica},
   booktitle={ACL Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis}, 
   title={{MBIAS: Mitigating Bias in Large Language Models While Retaining Context}}, 
