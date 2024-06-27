@@ -50,5 +50,21 @@ The model can be accessed and used for text generation through the HuggingFace p
 - **LoRA Attention Dimension:** 64
 - **LoRA Scaling/Dropout Probability:** 16/0.2
 
+## Citing
+When using **MBias** or the dataset in your research, please cite the following publication:
+
+Shaina Raza, Ananya Raval, Veronica Chatrath, **MBIAS: Mitigating Bias in Large Language Models While Retaining Context**, _ACL 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis_, 2024. [[Paper]](https://arxiv.org/abs/2405.11290)
+
+```bibtex
+@INPROCEEDINGS{RazaMBIAD,
+  author={Raza, Shaina and Raval, Ananya and Chatrath, Veronica},
+  booktitle={ACL 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA)}, 
+  title={{MBIAS: Mitigating Bias in Large Language Models While Retaining Context}}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={10.48550/arXiv.2405.11290}}
+```
 ## Contact
 For more information or questions, please contact Shaina Raza at [shaina.raza@vectorinstitute.ai](mailto:shaina.raza@vectorinstitute.ai).
