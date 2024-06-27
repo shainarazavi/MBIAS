@@ -58,7 +58,7 @@ Shaina Raza, Ananya Raval, Veronica Chatrath, **MBIAS: Mitigating Bias in Large 
 ```bibtex
 @INPROCEEDINGS{RazaMBIAD,
   author={Raza, Shaina and Raval, Ananya and Chatrath, Veronica},
-  booktitle={ACL 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA)}, 
+  booktitle={ACL Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis}, 
   title={{MBIAS: Mitigating Bias in Large Language Models While Retaining Context}}, 
   year={2024},
   volume={},
