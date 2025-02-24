@@ -1,5 +1,7 @@
 # MBIAS
 
+## Paper https://aclanthology.org/2024.wassa-1.9/
+
 ## License
 This project is licensed under the MIT License.
 
@@ -56,15 +58,12 @@ When using **MBias** or the dataset in your research, please cite the following 
 Shaina Raza, Ananya Raval, Veronica Chatrath, **MBIAS: Mitigating Bias in Large Language Models While Retaining Context**, _ACL 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis_, 2024. [[Paper]](https://arxiv.org/abs/2405.11290)
 
 ```bibtex
-@INPROCEEDINGS{RazaMBIAS,
+@article{raza2024mbias,
+  title={Mbias: Mitigating bias in large language models while retaining context},
   author={Raza, Shaina and Raval, Ananya and Chatrath, Veronica},
-  booktitle={ACL Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis}, 
-  title={{MBIAS: Mitigating Bias in Large Language Models While Retaining Context}}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={},
-  doi={10.48550/arXiv.2405.11290}}
+  journal={arXiv preprint arXiv:2405.11290},
+  year={2024}
+}
 ```
 ## Contact
 For more information or questions, please contact Shaina Raza at [shaina.raza@vectorinstitute.ai](mailto:shaina.raza@vectorinstitute.ai).
