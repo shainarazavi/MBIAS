@@ -1,6 +1,7 @@
 # MBIAS
 
-## Paper https://aclanthology.org/2024.wassa-1.9/
+## Paper
+https://aclanthology.org/2024.wassa-1.9/
 
 ## License
 This project is licensed under the MIT License.
